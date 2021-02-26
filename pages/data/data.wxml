@@ -1,0 +1,9 @@
+<!--pages/data/data.wxml-->
+
+<view>
+    <text>pages/data/data.wxml</text>
+    <button bind:tap="gotouser">user</button>
+    <button bind:tap="gotologin">gotologin</button>
+</view>
+
+

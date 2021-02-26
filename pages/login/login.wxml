@@ -1,0 +1,8 @@
+<!--pages/login/login.wxml-->
+
+<view>
+    <text>pages/login/login.wxml</text>
+    <button bind:tap="gotoIndex">司机登录</button>
+    <button bind:tap="gotodata">车队登录</button>
+</view>
+
